@@ -10,7 +10,7 @@
 
 # My Projects
   - [**covid19**](https://github.com/Aniket-git-hub/covid19update.github.io) This was the first project that I built. I was not good at javascript but still managed to use fecth api function.
-  - [**Madhu**](https://github.com/Aniket-git-hub/madhuenterprises) This is the private repo. It is a ERP system for MSME in MIDC. I stated making this for my fathers business but now working to make it **A Billion Dollar App Idea** that's why it's private.
+  - [**Madhu**](https://github.com/Aniket-git-hub/madhuenterprises) This is the private repo. It is a ERP system for MSME in MIDC. I started making this for my fathers business but now working to make it **A Billion Dollar App Idea** that's why it's private.
   - [**DSA**](https://github.com/Aniket-git-hub/DSA) This repo contains every problems that I have solved while learning DSA.
   - [**letsbug**](https://letsbug.com) This is the name of my blog which I am currently running. 
 <!---
