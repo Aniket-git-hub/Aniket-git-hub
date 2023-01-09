@@ -6,7 +6,7 @@
 - 📫 How to reach me - https://hello.letsbug.com/
 
 # About Me
-  I am a TY BBA.CA very keen to learn new technologies. I live in Pune, India. 
+  I am a TY BBA.CA. keen to learn new technologies. I live in Pune, India. 
 <!---
 Aniket-git-hub/Aniket-git-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
