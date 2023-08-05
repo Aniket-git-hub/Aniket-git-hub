@@ -7,7 +7,8 @@
 
 
 # About Me
-  I have a strong passion for coding and web development. I thrive on the challenge of solving complex problems and find great joy in the process
+  I have a strong passion for coding and web development. 
+  I thrive on the challenge of solving complex problems and find great joy in the process
 <!---
 Aniket-git-hub/Aniket-git-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
