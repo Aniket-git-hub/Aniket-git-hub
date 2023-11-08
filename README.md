@@ -8,7 +8,7 @@
 - 💬 Ask me about **Web development **
 
 - 👨‍💻 All of my projects are available at **aniket.letsbug.in**
-- 📄 Know about my experiences **aniket.letsbug.in**
+- 📄 Know about my experiences [**aniket.letsbug.in**](https://aniket.letsbug.in)
 
 <div> <a href="https://www.linkedin.com/in/aniket-singh-80371b201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aniket-git-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
